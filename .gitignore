@@ -1,0 +1,4 @@
+*.mp4
+geckodriver*
+tktkdlr.py
+__pycache__
